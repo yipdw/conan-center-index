@@ -2,6 +2,9 @@ sources:
   "1.34.2":
     url: "https://github.com/libuv/libuv/archive/v1.34.2.zip"
     sha256: "e1a663bcbfbeb18e447f79a39645ca555db47153d29ed81a1cb289373f357035"
+  "1.37.0":
+    url: "https://github.com/libuv/libuv/archive/v1.37.0.zip"
+    sha256: "7c5957d9bfeddcdb30ea6850610577faaab61d6d1592f4002b6553633c24b641"
 patches:
   "1.34.2":
     - base_path: "source_subfolder"
